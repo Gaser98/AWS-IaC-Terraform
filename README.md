@@ -8,11 +8,11 @@ isolation for the current project and it's comprised of 4 modules:
 
 1-vpc:
 
-contains vpc,subnets,routes,route tables,internet and NAT gateways and need network associations
+contains vpc,subnets,routes,route tables,internet and NAT gateways and needed network associations
 
 2-security_group:
 
-necessary inbound and outbound rules to alow http and ssh traffic
+necessary inbound and outbound rules to allow http and ssh traffic
 
 3-loadbalancer:
 
